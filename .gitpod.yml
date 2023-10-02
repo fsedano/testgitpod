@@ -1,0 +1,7 @@
+tasks:
+  - init: |
+      apt-get update
+vscode:
+  extensions:
+    - golang.go
+
